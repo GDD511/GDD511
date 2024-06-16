@@ -8,4 +8,3 @@
 - 🌱 I’m currently learning Python, java, GitHub
 - 📫 How to reach me: duvallg@merrimack.edu
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I enjoy camping with my family.
